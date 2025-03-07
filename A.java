@@ -13,5 +13,5 @@ public class A{
 >>>>>>> lyh
 
  double d = 10.9;
-  String ai = "좋은 아이 그런데 수정중임";
+  String ai = "tnwjdwnd";
 }
