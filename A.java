@@ -11,4 +11,6 @@ public class A{
   int age = 30;
   double d = 15.99;
 >>>>>>> lyh
+
+ double d = 10.9;
 }
