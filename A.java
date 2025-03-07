@@ -2,8 +2,6 @@ public class A{
   int a = 10;
 
 <<<<<<< HEAD
-  String str = "이쒸";
-
   double d = 10000.5;
 =======
   String str = "이용훈";
@@ -11,7 +9,5 @@ public class A{
   int age = 30;
   double d = 15.99;
 >>>>>>> lyh
-
- double d = 10.9;
-  String ai = "좋은 아이 그런데 수정중임";
+  String ai = "dlrp skfkrdldi?";
 }
